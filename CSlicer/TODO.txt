@@ -1,0 +1,12 @@
+TODO list for the C Slicer
+
+( ) Integrate with TypeChef
+( ) Add tests such as:
+
+int x = 0;
+x = 10;
+x = 50;
+
+print(x); // criteria
+
+( ) Test on real files e.g. Linux and BusyBox
